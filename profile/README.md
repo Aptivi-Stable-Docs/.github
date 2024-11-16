@@ -15,11 +15,12 @@
 * [Main](https://github.com/Aptivi)
 * [Archives](https://github.com/Aptivi-Archives)
   * [Documentation Archives](https://github.com/Aptivi-Docs-Archive)
-* [**Documentation**](https://github.com/Aptivi-Docs)
-  * Stable Documentations
+* [Documentation](https://github.com/Aptivi-Docs)
+  * **Stable Documentations**
 * [Analytics](https://github.com/Aptivi-Analytics)
 * [Chocolatey Packs](https://github.com/Aptivi-Choco-Pack)
 * [Mobile](https://github.com/aptivi-mobile)
 * PowerTools
   * [Windows PowerTools](https://github.com/Aptivi-WPT)
   * [Linux PowerTools](https://github.com/Aptivi-LPT)
+* [Assorted](https://github.com/Aptivi-Assorted)
